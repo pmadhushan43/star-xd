@@ -3,7 +3,7 @@
 export default {
   // PUT YOUR SESSION ID BELOW (Required)
   // Get from: https://star.malvintech.sbs/
-  SESSION_ID: "",
+  SESSION_ID: "king~xSlZcdEbNM2o",
 
   // PUT YOUR REMOVE BACKGROUND KEY (Optional)
   // Get from: https://remove.bg/api
@@ -11,7 +11,7 @@ export default {
 
   // If you don't have session id, use pairing code
   // Put your WhatsApp number here (without +)
-  PAIRING_NUMBER: "",
+  PAIRING_NUMBER: "263780958186",
   
   SESSION_SITE: "https://pair.malvintech.sbs",
 
